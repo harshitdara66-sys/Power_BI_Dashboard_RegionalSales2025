@@ -191,7 +191,7 @@ Add dashboard screenshots to the repository using an `assets` folder:
 
 ![image alt](https://github.com/harshitdara66-sys/Power_BI_Dashboard_RegionalSales2025/blob/c066681860afc117a390f003b49c21dc475c7ae6/sales%20performance%20analysis.png)
 
-![image alt](.png)
+![image alt](https://github.com/harshitdara66-sys/Power_BI_Dashboard_RegionalSales2025/blob/778748859a3fbc92ec4ad8b572a7929b6d6e00f2/tooltip.png)
 # 🚀 Power BI Skills Demonstrated
 
 - Power Query ETL
