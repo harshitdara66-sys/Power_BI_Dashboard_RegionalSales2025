@@ -189,22 +189,8 @@ The project follows a structured ETL and Business Intelligence workflow:
 
 Add dashboard screenshots to the repository using an `assets` folder:
 
-```text
-assets/
-│
-├── regional-sales-dashboard.png
-├── sales-analysis.png
-├── regional-performance.png
-└── product-analysis.png
-```
+![image alt](.png)
 
-Then display them on GitHub:
-
-```markdown
-![Regional Sales Dashboard](assets/regional-sales-dashboard.png)
-```
-
----
 
 # 🚀 Power BI Skills Demonstrated
 
